@@ -4,7 +4,7 @@
 
 <h3 align="center">Plan Your Outfit App</h3>
 
-<p align="center">Create new Bootstrap-powered npm projects in no time.</p>
+<p align="center">Plan your outfits based on the weather</p>
 
 ## About
 
